@@ -1,0 +1,18 @@
+{
+  "name": "ymshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echo-js": "^1.7.3",
+    "responsively-lazy": "^1.2.1",
+    "vue": "^1.0.26",
+    "vue-infinite-scroll": "^0.2.3",
+    "vue-lazyload-img": "^0.1.5"
+  }
+}

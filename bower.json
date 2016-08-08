@@ -1,0 +1,17 @@
+{
+  "name": "ymshop",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "122355694@qq.com <122355694@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
